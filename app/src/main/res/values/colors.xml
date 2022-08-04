@@ -13,4 +13,7 @@
     <color name="darkOrange">#9E5600</color>
     <color name="lightOrange">#EB8F21</color>
 
+    <color name="colorWorstTip">#FF0000</color>
+    <color name="colorBestTip">#00FF00</color>
+
 </resources>
